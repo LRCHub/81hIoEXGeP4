@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Give Me the Night",
+  "base_artist": "ジョージ・ベンソン",
+  "createdAt": "2026-02-08T05:26:01.379117Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Give Me The Night",
+      "artist": "BWO",
+      "has_synced": false,
+      "path": "select/01_Give_Me_The_Night_BWO.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Give Me The Night",
+      "artist": "Beachcrimes",
+      "has_synced": true,
+      "path": "select/02_Give_Me_The_Night_Beachcrimes.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Give me the night",
+      "artist": "Alixo",
+      "has_synced": true,
+      "path": "select/03_Give_me_the_night_Alixo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Give Me the Night",
+      "artist": "George Benson",
+      "has_synced": true,
+      "path": "select/04_Give_Me_the_Night_George_Benson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Give Me The Night",
+      "artist": "George Benson",
+      "has_synced": true,
+      "path": "select/05_Give_Me_The_Night_George_Benson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Give Me the Night",
+      "artist": "George Benson",
+      "has_synced": false,
+      "path": "select/06_Give_Me_the_Night_George_Benson.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Give Me The Night",
+      "artist": "Smoma",
+      "has_synced": true,
+      "path": "select/07_Give_Me_The_Night_Smoma.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Give Me the Night",
+      "artist": "George Benson",
+      "has_synced": true,
+      "path": "select/08_Give_Me_the_Night_George_Benson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Give Me the Night (acoustic)",
+      "artist": "Beachcrimes",
+      "has_synced": true,
+      "path": "select/09_Give_Me_the_Night_(acoustic)_Beachcrimes.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Give Me The Night",
+      "artist": "René Froger",
+      "has_synced": true,
+      "path": "select/10_Give_Me_The_Night_René_Froger.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Give Me The Night",
+      "artist": "DragonForce",
+      "has_synced": true,
+      "path": "select/11_Give_Me_The_Night_DragonForce.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Give Me the Night",
+      "artist": "George Benson",
+      "has_synced": true,
+      "path": "select/12_Give_Me_the_Night_George_Benson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Give Me The Night",
+      "artist": "George Benson",
+      "has_synced": true,
+      "path": "select/13_Give_Me_The_Night_George_Benson.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Give Me the Night",
+      "artist": "Randy Crawford",
+      "has_synced": false,
+      "path": "select/14_Give_Me_the_Night_Randy_Crawford.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Give Me the Night",
+      "artist": "George Benson",
+      "has_synced": true,
+      "path": "select/15_Give_Me_the_Night_George_Benson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Give Me The Night",
+      "artist": "George Benson",
+      "has_synced": false,
+      "path": "select/pl_01_Give_Me_The_Night_George_Benson.txt"
+    }
+  ]
+}
